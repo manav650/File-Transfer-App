@@ -8,13 +8,13 @@ These are python based GUI apps for file transfer.
 4. tkinter
 
 # Code
-![Screenshot (825)](https://user-images.githubusercontent.com/54886674/121167969-12121780-c870-11eb-9ac7-b220e2f0b18c.png)
-![Screenshot (826)](https://user-images.githubusercontent.com/54886674/121167978-13dbdb00-c870-11eb-9b39-73bc489749f7.png)
+![Screenshot (825)](https://user-images.githubusercontent.com/54886674/121169766-f7d93900-c871-11eb-84a0-87b856f70340.png)
+![Screenshot (826)](https://user-images.githubusercontent.com/54886674/121169774-f90a6600-c871-11eb-93ec-3a58df0123b5.png)
+
 
 
 # Output
-![-1](https://user-images.githubusercontent.com/54886674/121167870-f6a70c80-c86f-11eb-924a-94d169f6c407.PNG)
-![Capture](https://user-images.githubusercontent.com/54886674/121167879-f9096680-c86f-11eb-8624-0976dd4f4185.PNG)
-![0](https://user-images.githubusercontent.com/54886674/121167887-fad32a00-c86f-11eb-89d1-24c060cad1ae.PNG)
-![1](https://user-images.githubusercontent.com/54886674/121167897-fe66b100-c86f-11eb-8415-1c89cfa755b6.PNG)
-
+![a](https://user-images.githubusercontent.com/54886674/121169732-eee86780-c871-11eb-9a89-65fe0318628e.PNG)
+![b](https://user-images.githubusercontent.com/54886674/121169738-f0199480-c871-11eb-9f46-0d7cd8e8ee0a.PNG)
+![c](https://user-images.githubusercontent.com/54886674/121169740-f0b22b00-c871-11eb-87ac-a78a16b6206b.PNG)
+![d](https://user-images.githubusercontent.com/54886674/121169741-f0b22b00-c871-11eb-80b1-6d27423af62a.PNG)
